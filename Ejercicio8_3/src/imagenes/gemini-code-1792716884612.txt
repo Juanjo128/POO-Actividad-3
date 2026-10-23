@@ -1,0 +1,15 @@
++--------------------------------------------+
+               |            Sistema de Notas                |
+               |                                            |
+               |    ( Ingresar 5 notas )                    |
+               |             /                              |
+   +-----+     |   <<include>>                              |
+   |     |     |           v                                |
+  /  o  \  ----+---> ( Calcular Estadísticas )              |
+    / \        |            \                               |
+   /   \       |   <<extends>>                              |
+  Usuario      |           v                                |
+               |    ( Mostrar Alerta de Error )             |
+               |                                            |
+               |    ( Limpiar Campos )                      |
+               +--------------------------------------------+
